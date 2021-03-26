@@ -1,1 +1,0 @@
-# utkuaydn.github.io
