@@ -29,9 +29,10 @@ url: "utkuaydn.github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  utkuaydn
 
 # Build settings
-theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.1.2
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
